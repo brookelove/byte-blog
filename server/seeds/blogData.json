@@ -1,0 +1,103 @@
+[
+    {
+      "title": "TechCrunch",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "TechCrunch Team",
+      "img": "https://example.com/techcrunch.jpg",
+      "blogText": "TechCrunch is a leading technology media property...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "Wired",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "Wired Team",
+      "img": "https://example.com/wired.jpg",
+      "blogText": "Wired is a monthly American magazine...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "Ars Technica",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "Ars Technica Team",
+      "img": "https://example.com/arstechnica.jpg",
+      "blogText": "Ars Technica is a website covering news...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "The Verge",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "The Verge Team",
+      "img": "https://example.com/theverge.jpg",
+      "blogText": "The Verge is an American technology news website...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "Mashable",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "Mashable Team",
+      "img": "https://example.com/mashable.jpg",
+      "blogText": "Mashable is a global, multi-platform media and entertainment company...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "Gizmodo",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "Gizmodo Team",
+      "img": "https://example.com/gizmodo.jpg",
+      "blogText": "Gizmodo is a design, technology, science, and science fiction website...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "Engadget",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "Engadget Team",
+      "img": "https://example.com/engadget.jpg",
+      "blogText": "Engadget is a multilingual technology blog network with daily coverage of gadgets...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "Lifehacker",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "Lifehacker Team",
+      "img": "https://example.com/lifehacker.jpg",
+      "blogText": "Lifehacker is a weblog about life hacks and software...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "CNET",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "CNET Team",
+      "img": "https://example.com/cnet.jpg",
+      "blogText": "CNET is an American media website that publishes reviews, news, articles, blogs...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    },
+    {
+      "title": "MakeUseOf",
+      "category": "Technology",
+      "isHidden": false,
+      "blogAuthor": "MakeUseOf Team",
+      "img": "https://example.com/makeuseof.jpg",
+      "blogText": "MakeUseOf is a website that publishes articles, reviews, guides, and tips on technology...",
+      "createdAt": "2024-02-07T00:00:00.000Z",
+      "comments": []
+    }
+  ]
+  
